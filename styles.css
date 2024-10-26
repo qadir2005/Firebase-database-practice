@@ -1,0 +1,26 @@
+#formSubmit{
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    gap: 10px;
+}
+#formSubmit input,{
+    height: 35px;
+    width: 300px;
+}
+#formSubmit button{
+    height: 36px;
+    background-color: black;
+    border: none;
+    width: 30%;
+    color: wheat;
+    font-weight: bold;
+}
+ul li{
+    background-color: rgb(41, 36, 36);
+    width: 88%;
+    color: white;
+    padding: 5px 5px;
+    box-sizing: border-box;
+
+}

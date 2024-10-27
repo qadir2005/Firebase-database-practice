@@ -4,7 +4,7 @@
     margin-left: auto;
     gap: 10px;
 }
-#formSubmit input,{
+#formSubmit input{
     height: 35px;
     width: 300px;
 }
@@ -22,5 +22,8 @@ ul li{
     color: white;
     padding: 5px 5px;
     box-sizing: border-box;
-
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 10px;
+    margin-top: 5px;
 }
